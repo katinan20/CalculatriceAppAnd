@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CalculatriceKT.02</string>
+
+    <string name="dysplayHint">  </string>
+    <string name="oneText">1</string>
+    <string name="twoText">2</string>
+    <string name="threeText">3</string>
+    <string name="fourText">4</string>
+    <string name="fiveText">5</string>
+    <string name="sixText">6</string>
+    <string name="sevenText">7</string>
+    <string name="eightText">8</string>
+    <string name="nineText">9</string>
+    <string name="zeroText">0</string>
+
+    <string name="clearText">C</string>
+    <string name="clearAllText">AC</string>
+    <string name="divideText">÷</string>
+    <string name="mulitiplyText">x</string>
+    <string name="addText">+</string>
+    <string name="subtractText">-</string>
+    <string name="decimalText">.</string>
+    <string name="equalsText">=</string>
+    <string name="moduloText">%</string>
+    <string name="mutedText">-/+</string>
+
+
+
+</resources>
